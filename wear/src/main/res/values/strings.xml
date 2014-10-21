@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Wear Swarm App</string>
+    <string name="loading_text_init">initializing...</string>
+    <string name="loading_text_getting_nearby_places">Getting neraby places...</string>
+    <string name="loading_text_checking_in">Checking in...</string>
+    <string name="loading_text_login">Logining in...</string>
+    <string name="login_button">Login</string>
+    <string name="retry_button">Retry</string>
+    <string name="login_error">Login Error Try Again</string>
+    <string name="search_error">Search Error Try Again</string>
+</resources>
